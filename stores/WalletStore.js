@@ -12,7 +12,6 @@ export const useWalletStore = defineStore('WalletStore', {
       visability: false,
       fiatArray: ['UAH', 'USD', 'EUR', 'RSD'],
       settingsArrow: 'down',
-      totalArrow: 'down',
       fiatData: {...data},
       onlyFiat: false,
       converter,
@@ -24,7 +23,9 @@ export const useWalletStore = defineStore('WalletStore', {
     setSettingsMenu(status) {
       this.visability = status;
 
-      status ? this.settingsArrow = 'up': this.settingsArrow ='down';
+      status 
+        ? this.settingsArrow = 'up'
+        : this.settingsArrow ='down';
     },
     showFiat() {
       if (!this.onlyFiat) {

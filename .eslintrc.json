@@ -1,0 +1,37 @@
+{
+  "root": true,
+  "parser": "@babel/eslint-parser",
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "env": {
+      "browser": true,
+      "es2021": true
+  },
+  "extends": [
+    "@nuxtjs"
+  ],
+  "overrides": [
+  ],
+  "plugins": [
+      "vue"
+  ],
+  "rules": {
+      "indent": [
+          "error",
+          2
+      ],
+      "linebreak-style": [
+          "error",
+          "unix"
+      ],
+      "quotes": [
+          "error",
+          "single"
+      ],
+      "semi": [
+          "error",
+          "always"
+      ]
+  }
+}
