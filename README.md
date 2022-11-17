@@ -32,7 +32,8 @@ Start the development server on http://localhost:3000
 npm run dev
 ```
 
-*P.S. It was a very interesting and valuable experience for me, I am glad that I managed to complete this task and I hope I coped with it with dignity. I worked with all the technologies used for the first time, and to be honest, I liked it.*
+## P.S.
+*It was a very interesting and valuable experience for me, I am glad that I managed to complete this task and I hope I coped with it with dignity. I worked with all the technologies used for the first time, and to be honest, I liked it.*
 
 **Thank you for your attention and may the force be with you!**
 
