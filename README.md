@@ -9,6 +9,8 @@
 - Markup is completely done on **TailwindCSS**.
 - **Decimal.js** is used to round currency balances.
 
+*P.S. in the demo link, the currency icons are static, but their dynamics is implemented in the project*
+
 ## Setup
 
 Make sure to install the dependencies:
