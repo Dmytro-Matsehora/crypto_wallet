@@ -8,8 +8,12 @@
     <div>
       <button
         @click="walletStore.setSettingsMenu(!walletStore.visability)" 
-        v-bind:class="{'rounded-t-md': walletStore.visability, 'rounded-md': !walletStore.visability}"
-        class="flex justify-center items-center h-8 w-186 bg-settingsButton/20">
+        v-bind:class="{
+          'rounded-t-md': walletStore.visability, 
+          'rounded-md': !walletStore.visability
+        }"
+        class="flex justify-center items-center h-8 w-186 bg-settingsButton/20"
+      >
         <img
           src="../assets/images/settings.svg"
           alt="settings"
