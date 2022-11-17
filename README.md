@@ -1,6 +1,6 @@
 # Wallet (test task solution)
 
-**Demo link: **
+**Demo link: [DEMO](https://crypto-wallet-demo.vercel.app/)**
 
 **link to layout: [Figma](https://www.figma.com/file/bjVEJ53RcPVgIaKyWb4UvT/Test-Wallet?t=DizkVUzok7iZ6dbw-0)**
 
