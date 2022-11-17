@@ -1,8 +1,8 @@
 # Wallet (test task solution)
 
-Here you can see the demo link:
+**Demo link: **
 
-Layout taken from here: [Figma](https://www.figma.com/file/bjVEJ53RcPVgIaKyWb4UvT/Test-Wallet?t=DizkVUzok7iZ6dbw-0)
+**link to layout: [Figma](https://www.figma.com/file/bjVEJ53RcPVgIaKyWb4UvT/Test-Wallet?t=DizkVUzok7iZ6dbw-0)**
 
 - The project is implemented on the basis of **Nuxt3**.
 - **Pinia** was used as storage.
