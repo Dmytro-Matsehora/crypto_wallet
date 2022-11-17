@@ -24,4 +24,4 @@ Start the development server on http://localhost:3000
 ```bash
 npm run dev
 ```
-![preview](https://prnt.sc/5Mj5B4dFPfyM)
+![preview](https://photos.google.com/photo/AF1QipNvl2mmjr7ZWc5pW7OHCD3DPtLOBN8XlooXry2o)
